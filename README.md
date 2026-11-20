@@ -2,15 +2,21 @@
 
 自建直播源名单，由 iptv-api 引擎自动测速筛选后生成，每 12 小时更新一次。
 
-## 订阅地址
+## 订阅地址（主链接，实时最新）
 
 - TVBox 直播源（txt）：https://raw.githubusercontent.com/leop017/iptv/main/iptv.txt
-- VLC / 通用播放器（m3u）：https://raw.githubusercontent.com/leop017/iptv/main/iptv.m3u
+- VLC / Kodi / 通用播放器（m3u）：https://raw.githubusercontent.com/leop017/iptv/main/iptv.m3u
 
-备用镜像（jsdelivr）：
+## 国内备用镜像（gh-proxy，内容与主链接同步）
 
-- https://cdn.jsdelivr.net/gh/leop017/iptv@main/iptv.txt
-- https://cdn.jsdelivr.net/gh/leop017/iptv@main/iptv.m3u
+主链接打不开或很慢时用这两个：
+
+- TVBox（txt）：https://gh-proxy.com/https://raw.githubusercontent.com/leop017/iptv/main/iptv.txt
+- VLC / Kodi（m3u）：https://gh-proxy.com/https://raw.githubusercontent.com/leop017/iptv/main/iptv.m3u
+
+## Kodi 用法
+
+插件 → 从仓库安装 → PVR 客户端 → PVR IPTV Simple Client，配置里填上面的 m3u 地址，启用后在主界面「电视」栏目观看。本名单未配电子节目单（EPG）。
 
 ## 说明
 
