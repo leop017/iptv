@@ -25,11 +25,6 @@ CGTN-法语,http://espanol-liveali.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LS
 CGTN-阿语,https://0472.org/hls/cgtna.m3u8
 CGTN-西语,https://0472.org/hls/cgtnx.m3u8
 
-香港,#genre#
-凤凰中文,https://cdn.qd.je/163189/fhzw
-凤凰资讯,https://cdn.qd.je/163189/fhzx
-翡翠台,https://10.fast.hidns.vip/163189/fct/
-ViuTV,https://cdn.qd.je/163189/viu
 
 卫视,#genre#
 东方卫视,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
